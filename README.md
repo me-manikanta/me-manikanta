@@ -8,9 +8,9 @@ Currently building backend systems for Text-to-Speech (TTS), focused on Indic lo
 
 ### Currently
 
-- Building backend systems for Text-to-Speech (TTS), focused on Indic locales and neural voice
-- Exploring distributed systems and cloud-native architectures
-- Open to Open Source collaborations
+- 🎙️ Building backend systems for Text-to-Speech (TTS), focused on Indic locales and neural voice
+- 🌐 Exploring distributed systems and cloud-native architectures
+- 🤝 Open to Open Source collaborations
 
 ### Stack
 

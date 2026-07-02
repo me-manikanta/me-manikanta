@@ -6,16 +6,22 @@
 <!--STATISTICS-->
 <p align="center">
     <!--<img src="https://gpvc.arturio.dev/me-manikanta" alt="profile views">!-->
+    <a href="https://me-manikanta.github.io" target="blank"><img src="https://img.shields.io/badge/Portfolio-me--manikanta.github.io-blueviolet?style=flat&logo=googlechrome&logoColor=white" alt="portfolio"></a>
     <img src="https://img.shields.io/github/stars/me-manikanta/memories?&style=flat" alt="stars">
     <img src="https://img.shields.io/github/watchers/me-manikanta/memories?&style=flat" alt="stars">
 </p>
 
 <p>Welcome to my page! </br> I'm Mani, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="16"/> <b>Hyderabad, India</b>, currently working <b> <a href="https://www.arcesium.com" target="blank">@Arcesium</a></b>
 
+<p align="center">
+    🌐 Check out my personal website <a href="https://me-manikanta.github.io" target="blank"><b>me-manikanta.github.io</b></a> to know more about my projects, experience and journey!
+</p>
+
 - 🔭 I’m currently working on my health and making friends happy 😜
 - 🌱 I’m currently learning AWS, Flutter and Docker
 - 👯 I’m looking to start contribute more to Open Source
 - 💬 Ask me about anything, I am happy to help;
+- 📄 Know more about me on my <a href="https://me-manikanta.github.io" target="blank">portfolio</a>
 - 😄 Pronouns: he/him
 
 <!--Languages -->
@@ -57,6 +63,7 @@
 
 <!--SOCIAL-->
 <p align="center">
+    <a href="https://me-manikanta.github.io" target="blank"><img src="https://img.icons8.com/cute-clipart/64/000000/domain.png" width="32"/></a>
     <a href="https://twitter.com/me_manikanta" target="blank"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" width="32"/></a>
     <a href="https://www.instagram.com/_me_manikanta/?hl=en" target="blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" width="32"/></a>
     <a href="https://linkedin.com/in/manikantainugurthi" target="blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width="32"/></a>

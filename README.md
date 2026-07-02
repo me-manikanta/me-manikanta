@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on backend systems for Text-to-Speech (TTS), focusing on Indic locales and neural voice experiences
 - 🌱 I’m currently exploring distributed systems and cloud-native architectures
-- 👯 I’m looking to start contribute more to Open Source
+- 👯 I’m looking to start contributing more to Open Source
 - 💬 Ask me about anything, I am happy to help;
 - 📄 Know more about me on my <a href="https://me-manikanta.github.io" target="blank">portfolio</a>
 - 😄 Pronouns: he/him

@@ -11,14 +11,14 @@
     <img src="https://img.shields.io/github/watchers/me-manikanta/memories?&style=flat" alt="stars">
 </p>
 
-<p>Welcome to my page! </br> I'm Mani, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="16"/> <b>Hyderabad, India</b>, currently working <b> <a href="https://www.arcesium.com" target="blank">@Arcesium</a></b>
+<p>Welcome to my page! </br> I'm Mani, Senior Software Engineer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="16"/> <b>Hyderabad, India</b>, currently working <b> <a href="https://www.microsoft.com" target="blank">@Microsoft</a></b>
 
 <p align="center">
     🌐 Check out my personal website <a href="https://me-manikanta.github.io" target="blank"><b>me-manikanta.github.io</b></a> to know more about my projects, experience and journey!
 </p>
 
-- 🔭 I’m currently working on my health and making friends happy 😜
-- 🌱 I’m currently learning AWS, Flutter and Docker
+- 🔭 I’m currently working on backend systems for Text-to-Speech (TTS), focusing on Indic locales and neural voice experiences
+- 🌱 I’m currently exploring distributed systems and cloud-native architectures
 - 👯 I’m looking to start contribute more to Open Source
 - 💬 Ask me about anything, I am happy to help;
 - 📄 Know more about me on my <a href="https://me-manikanta.github.io" target="blank">portfolio</a>
@@ -28,6 +28,7 @@
 
 ### Things I code with
 <p>
+<img alt="csharp" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
 <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white"/>
 <img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/>

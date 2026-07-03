@@ -69,8 +69,6 @@ When I am not writing services, I am usually [writing about them](https://me-man
 
 <img src="https://streak-stats.demolab.com?user=me-manikanta&hide_border=true&background=00000000&stroke=808080&ring=3B82F6&fire=3B82F6&currStreakNum=808080&sideNums=808080&currStreakLabel=3B82F6&sideLabels=808080&dates=808080" alt="GitHub streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=me-manikanta&theme=flat&no-frame=true&column=7&margin-w=4" alt="Trophies" />
-
 </div>
 
 <picture>

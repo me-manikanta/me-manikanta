@@ -1,0 +1,22 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # Runs once a week (Sunday 00:00 UTC)
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull latest posts from RSS feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://me-manikanta.github.io/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url) — $description<br>"

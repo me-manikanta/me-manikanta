@@ -54,9 +54,8 @@ When I am not writing services, I am usually [writing about them](https://me-man
 - **[How I track my expenses](https://me-manikanta.github.io/blog/track-expenses)** How I finally track my expenses without the usual laziness - a simple Excel-based system that does the job without fancy software.
 - **[Splitwise Automation to send expense updates](https://me-manikanta.github.io/blog/splitwise-automation)** A Side-Project-Sunday build that automates Splitwise to total my monthly expenses across the app using its API and a bit of Python.
 - **[Let&#39;s discuss commit messages](https://me-manikanta.github.io/blog/commit-messages)** Why good commit messages matter, and a practical structure for writing them so you and your team can understand changes months later.
-- **[Logging best practices that I follow](https://me-manikanta.github.io/blog/logging-best-practices)** Practical logging best practices from years as a backend developer, log levels, what to record, and rules for writing useful log statements.
-- **[How-to: Python Paramiko](https://me-manikanta.github.io/blog/python-paramiko)** A how-to guide for using the Python Paramiko library.
-<!-- BLOG-POST-LIST:END -->
+- **[Logging best practices that I follow](https://me-manikanta.github.io/blog/logging-best-practices)** Practical logging best practices from years as a backend developer — log levels, what to record, and rules for writing useful log statements.
+- **[How-to: Python Paramiko](https://me-manikanta.github.io/blog/python-paramiko)** A how-to guide for using the Python Paramiko library.<!-- BLOG-POST-LIST:END -->
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on the blog](https://me-manikanta.github.io/blog)

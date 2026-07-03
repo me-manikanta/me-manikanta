@@ -58,7 +58,7 @@ When I am not writing services, I am usually [writing about them](https://me-man
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=me-manikanta&show_icons=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=808080&bg_color=00000000" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-manikanta&layout=compact&hide_border=true&title_color=3B82F6&text_color=808080&bg_color=00000000" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=me-manikanta&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=me-manikanta&hide_border=true&background=00000000&stroke=808080&ring=3B82F6&fire=3B82F6&currStreakNum=808080&sideNums=808080&currStreakLabel=3B82F6&sideLabels=808080&dates=808080" alt="GitHub streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=me-manikanta&theme=flat&no-frame=true&column=7&margin-w=4" alt="Trophies" />
 

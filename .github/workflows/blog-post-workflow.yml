@@ -14,9 +14,11 @@ jobs:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
       - name: Pull latest posts from RSS feed
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://me-manikanta.github.io/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url) — $description<br>"
+          template: "- **[$title]($url)** $description<br>"

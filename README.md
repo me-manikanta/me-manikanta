@@ -12,7 +12,7 @@
 
 </div>
 
-### Hey, I'm Mani 👋
+<h3 align="center">Hey, I'm Mani 👋</h3>
 
 Senior Software Engineer at [Microsoft](https://www.microsoft.com) in Hyderabad, and a **backend engineer at heart**. I like the unglamorous parts: distributed systems, performance, clean APIs, and the plumbing that keeps things running when nobody is watching.
 
@@ -20,14 +20,16 @@ Right now that means building backend systems for **Text-to-Speech**, giving neu
 
 When I am not writing services, I am usually [writing about them](https://me-manikanta.github.io/blog), fuelled by an unreasonable amount of coffee ☕.
 
-### 🚀 Currently
+<h3 align="center">🚀 Currently</h3>
 
 - 🛠️ Building **backend systems** for Text-to-Speech, my current project at Microsoft
 - 🌐 Nerding out over **distributed systems** and cloud-native architectures
 - 🤝 Open to **open-source** collaborations
 - 📝 Shipping small builds every **Side Project Sunday**
 
-### 🧰 Tech Stack
+<h3 align="center">🧰 Tech Stack</h3>
+
+<div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -44,13 +46,17 @@ When I am not writing services, I am usually [writing about them](https://me-man
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### ✍️ From the blog
+</div>
 
-<!-- BLOG-POST-LIST:START -->- **[How I track my expenses](https://me-manikanta.github.io/blog/track-expenses)** How I finally track my expenses without the usual laziness - a simple Excel-based system that does the job without fancy software.<br>- **[Splitwise Automation to send expense updates](https://me-manikanta.github.io/blog/splitwise-automation)** A Side-Project-Sunday build that automates Splitwise to total my monthly expenses across the app using its API and a bit of Python.<br>- **[Let&#39;s discuss commit messages](https://me-manikanta.github.io/blog/commit-messages)** Why good commit messages matter, and a practical structure for writing them so you and your team can understand changes months later.<br>- **[Logging best practices that I follow](https://me-manikanta.github.io/blog/logging-best-practices)** Practical logging best practices from years as a backend developer — log levels, what to record, and rules for writing useful log statements.<br>- **[How-to: Python Paramiko](https://me-manikanta.github.io/blog/python-paramiko)** A how-to guide for using the Python Paramiko library.<br><!-- BLOG-POST-LIST:END -->
+<h3 align="center">✍️ From the blog</h3>
+
+<!-- BLOG-POST-LIST:START -->
+- **[How I track my expenses](https://me-manikanta.github.io/blog/track-expenses)**<br>How I finally track my expenses without the usual laziness - a simple Excel-based system that does the job without fancy software.<br><br>- **[Splitwise Automation to send expense updates](https://me-manikanta.github.io/blog/splitwise-automation)**<br>A Side-Project-Sunday build that automates Splitwise to total my monthly expenses across the app using its API and a bit of Python.<br><br>- **[Let&#39;s discuss commit messages](https://me-manikanta.github.io/blog/commit-messages)**<br>Why good commit messages matter, and a practical structure for writing them so you and your team can understand changes months later.<br><br>- **[Logging best practices that I follow](https://me-manikanta.github.io/blog/logging-best-practices)**<br>Practical logging best practices from years as a backend developer, log levels, what to record, and rules for writing useful log statements.<br><br>- **[How-to: Python Paramiko](https://me-manikanta.github.io/blog/python-paramiko)**<br>A how-to guide for using the Python Paramiko library.<br>
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on the blog](https://me-manikanta.github.io/blog)
 
-### 📊 GitHub, by the numbers
+<h3 align="center">📊 GitHub, by the numbers</h3>
 
 <div align="center">
 
@@ -69,7 +75,7 @@ When I am not writing services, I am usually [writing about them](https://me-man
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/me-manikanta/me-manikanta/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### 🙃 A few things about me
+<h3 align="center">🙃 A few things about me</h3>
 
 - ☕ My preferred build tool is coffee, the code just compiles as a side effect
 - 🧱 Happiest deep in a backend, tracing a request through five services
